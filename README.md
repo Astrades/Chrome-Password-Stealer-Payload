@@ -10,7 +10,7 @@ thanks <3
 # Setup (similar to other payload)
 1) Edit maintenance.ps1 to your preference
 * Change the username, password, and recipient
-2) Upload the PowerShell script and exe to a filehost (possible to wget from)
+2) Upload the maintenance.ps1 and exe to a filehost (possible to wget from)
 * DO NOT RENAME THE FILE
 3) Download Arduino IDE
 
