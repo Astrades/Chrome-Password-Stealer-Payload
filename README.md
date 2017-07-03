@@ -1,5 +1,5 @@
 # Chrome-Password-Stealer-Payload
-Another payload for the DigiKeyboard rubber ducky. This one steals Chrome passwords and emails them to an email of your choosing (or a text to a phone number of your choosing).
+Another payload for the DigiKeyboard rubber ducky. This one steals Chrome passwords and emails them to an email of your choosing (or a text to a phone number of your choosing). As you can see, the command line does not interact with chrome itself because it uses the exe (called ChromePass) to dump all passwords and usernames into a helpful GUI or in the command line and output it into a text file (what I used in my code). 
 
 
 # DISCLAIMER PLEASE READ
@@ -30,3 +30,5 @@ thanks <3
 9) ???
 
 10) $$PROFIT$$
+
+
